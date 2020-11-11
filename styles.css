@@ -27,8 +27,10 @@ button.prev, button.next {
     align-items: center;
     justify-content: center;
     color: #fff;
-    background-color: #333;
+    background-color: rgb(56, 75, 77);
     border-radius: 50%;
+    border: none;
+    opacity: 80%;
     width: 44px;
     height: 44px;
 }
